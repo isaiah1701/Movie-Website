@@ -1,0 +1,4 @@
+[28-Nov-2023 08:14:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Bundle\FrameworkBundle\Controller\AbstractController" not found in C:\MyProjects\AWDProject\src\Controller\RegistrationController.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\MyProjects\AWDProject\src\Controller\RegistrationController.php on line 14
